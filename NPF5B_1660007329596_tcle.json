@@ -1,0 +1,38 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 38427
+			}
+		],
+		"rt": 38493,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 38989,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 160946,
+		"response": {
+			"tcle": "Concordo voluntariamente em participar da pesquisa conforme texto acima."
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 1,
+		"time_elapsed": 200401,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 34561,
+		"response": {
+			"email": "jomanasdestin68@gmail.com"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 2,
+		"time_elapsed": 236577,
+		"internal_node_id": "0.0-2.0"
+	}
+]

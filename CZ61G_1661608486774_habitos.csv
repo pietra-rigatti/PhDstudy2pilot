@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":8072}]","8073","instructions","0","8078","0.0-0.0","",""
+"","98275","survey-multi-choice","1","106476","0.0-1.0","{""reading_habits_printed_magazines"":""Raramente"",""reading_habits_printed_newspapers"":""Nunca"",""reading_habits_books"":""Raramente"",""reading_habits_printed_socialmedias"":""Raramente""}","[0,1,2,3]"
+"","83015","survey-multi-choice","2","189604","0.0-2.0","{""reading_habits_virtual_magazines"":""Alguns dias da semana"",""reading_habits_virtual_newspapers"":""Raramente"",""reading_habits_books"":""Raramente"",""reading_habits_virtual_socialmedias"":""Raramente""}","[0,1,2,3]"
+"","60816","survey-text","3","250543","0.0-3.0","{""reading_habits_other_which"":""Livros de cuidados de idosos"",""reading_habits_other_frequency"":""3 vezes por semana""}",""

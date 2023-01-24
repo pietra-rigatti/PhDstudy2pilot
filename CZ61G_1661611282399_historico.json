@@ -1,0 +1,428 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 10421
+			}
+		],
+		"rt": 10421,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 10425,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 11696,
+		"response": {
+			"age": "46"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 1,
+		"time_elapsed": 22243,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 10269,
+		"response": {
+			"sex": "Feminino"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 2,
+		"time_elapsed": 32620,
+		"internal_node_id": "0.0-2.0"
+	},
+	{
+		"rt": 17199,
+		"response": {
+			"own_schooling": "Ensino Fundamental"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 3,
+		"time_elapsed": 49929,
+		"internal_node_id": "0.0-3.0"
+	},
+	{
+		"rt": 47468,
+		"response": {
+			"mother_schooling": "Ensino Fundamental"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 4,
+		"time_elapsed": 97507,
+		"internal_node_id": "0.0-4.0"
+	},
+	{
+		"rt": 15514,
+		"response": {
+			"father_schooling": "Ensino Fundamental"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 5,
+		"time_elapsed": 113134,
+		"internal_node_id": "0.0-5.0"
+	},
+	{
+		"rt": 362097,
+		"response": {
+			"language_0": "crioulo h",
+			"listening_0": "0",
+			"speaking_0": "2",
+			"reading_0": "4",
+			"writing_0": "4",
+			"language_1": "port",
+			"listening_1": "41",
+			"speaking_1": "41",
+			"reading_1": "41",
+			"writing_1": "41",
+			"language_2": "francês",
+			"listening_2": "7",
+			"speaking_2": "7",
+			"reading_2": "7",
+			"writing_2": "7",
+			"language_3": "espanhol",
+			"listening_3": "13",
+			"speaking_3": "35",
+			"reading_3": "13",
+			"writing_3": "13"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 6,
+		"time_elapsed": 475344,
+		"internal_node_id": "0.0-6.0"
+	},
+	{
+		"rt": 425334,
+		"response": {
+			"language_3": "espanhol",
+			"listening_3": "1",
+			"speaking_3": "0,5",
+			"reading_3": "0,5",
+			"writing_3": "0,5",
+			"language_1": "port",
+			"listening_1": "0,5",
+			"speaking_1": "0,5",
+			"reading_1": "0,5",
+			"writing_1": "0,5",
+			"language_2": "francês",
+			"listening_2": "1",
+			"speaking_2": "1",
+			"reading_2": "0,5",
+			"writing_2": "0,5"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 7,
+		"time_elapsed": 900797,
+		"internal_node_id": "0.0-7.0"
+	},
+	{
+		"rt": 7296,
+		"response": {
+			"country_of_origin": "Haiti"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 8,
+		"time_elapsed": 908207,
+		"internal_node_id": "0.0-8.0"
+	},
+	{
+		"rt": 16915,
+		"response": {
+			"country_of_residence": "Brasil (2017)"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 9,
+		"time_elapsed": 925238,
+		"internal_node_id": "0.0-9.0"
+	},
+	{
+		"rt": 88249,
+		"response": {
+			"country_0": "Equador",
+			"duration_0": "24",
+			"language_0": "espanhol",
+			"frequency_0": "5",
+			"country_1": "",
+			"duration_1": "",
+			"language_1": "",
+			"frequency_1": "",
+			"country_2": "",
+			"duration_2": "",
+			"language_2": "",
+			"frequency_2": "",
+			"country_3": "",
+			"duration_3": "",
+			"language_3": "",
+			"frequency_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 10,
+		"time_elapsed": 1013610,
+		"internal_node_id": "0.0-10.0"
+	},
+	{
+		"rt": 86234,
+		"response": {
+			"language_0": "port ",
+			"context_0": "3, 2",
+			"language_1": "espanhol",
+			"context_1": "3",
+			"language_2": "francês",
+			"context_2": "2",
+			"language_3": "",
+			"context_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 11,
+		"time_elapsed": 1099952,
+		"internal_node_id": "0.0-11.0"
+	},
+	{
+		"rt": 302588,
+		"response": {
+			"language_0": "crioulo h",
+			"home_0": "2",
+			"friends_0": "2",
+			"school_0": "5",
+			"work_0": "-",
+			"computer_0": "-",
+			"games_0": "-",
+			"language_1": "port",
+			"home_1": "-",
+			"friends_1": "41",
+			"school_1": "46",
+			"work_1": "42",
+			"computer_1": "-",
+			"games_1": "-",
+			"language_2": "espanhol",
+			"home_2": "-",
+			"friends_2": "35",
+			"school_2": "13",
+			"work_2": "35",
+			"computer_2": "-",
+			"games_2": "-",
+			"language_3": "francês",
+			"home_3": "-",
+			"friends_3": "7",
+			"school_3": "7",
+			"work_3": "20",
+			"computer_3": "-",
+			"games_3": "-"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 12,
+		"time_elapsed": 1402653,
+		"internal_node_id": "0.0-12.0"
+	},
+	{
+		"rt": 62941,
+		"response": {
+			"new_languages": 2
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-likert",
+		"trial_index": 13,
+		"time_elapsed": 1465704,
+		"internal_node_id": "0.0-13.0"
+	},
+	{
+		"rt": 134842,
+		"response": {
+			"language_0": "port",
+			"listen_0": "3",
+			"talk_0": "3",
+			"read_0": "3",
+			"write_0": "3",
+			"language_1": "crioulo h",
+			"listen_1": "6",
+			"talk_1": "6",
+			"read_1": "6",
+			"write_1": "6",
+			"language_2": "espanhol",
+			"listen_2": "3",
+			"talk_2": "3",
+			"read_2": "3",
+			"write_2": "3",
+			"language_3": "francês",
+			"listen_3": "4",
+			"talk_3": "4",
+			"read_3": "4",
+			"write_3": "4"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 14,
+		"time_elapsed": 1600659,
+		"internal_node_id": "0.0-14.0"
+	},
+	{
+		"rt": 327064,
+		"response": {
+			"language_0": "crioulo h",
+			"tv_0": "2",
+			"radio_0": "1",
+			"read_fun_0": "1",
+			"read_work_0": "-",
+			"write_0": "-",
+			"social_nets_0": "1",
+			"language_1": "port",
+			"tv_1": "1",
+			"radio_1": "1",
+			"read_fun_1": "1",
+			"read_work_1": "-",
+			"write_1": "1",
+			"social_nets_1": "1",
+			"language_2": "espanhol",
+			"tv_2": "-",
+			"radio_2": "-",
+			"read_fun_2": "-",
+			"read_work_2": "-",
+			"write_2": "-",
+			"social_nets_2": "-",
+			"language_3": "francês",
+			"tv_3": "1",
+			"radio_3": "1",
+			"read_fun_3": "1",
+			"read_work_3": "-",
+			"write_3": "-",
+			"social_nets_3": "1"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 15,
+		"time_elapsed": 1927835,
+		"internal_node_id": "0.0-15.0"
+	},
+	{
+		"rt": 200790,
+		"response": {
+			"language_0": "crioulo h",
+			"family_0": "1",
+			"friends_0": "1",
+			"work_0": "-",
+			"school_0": "-",
+			"language_1": "port",
+			"family_1": "-",
+			"friends_1": "1",
+			"work_1": "6",
+			"school_1": "1",
+			"language_2": "espanhol",
+			"family_2": "-",
+			"friends_2": "-",
+			"work_2": "-",
+			"school_2": "-",
+			"language_3": "francês",
+			"family_3": "-",
+			"friends_3": "1",
+			"work_3": "-",
+			"school_3": "-"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 16,
+		"time_elapsed": 2128732,
+		"internal_node_id": "0.0-16.0"
+	},
+	{
+		"rt": 149978,
+		"response": {
+			"language_0_0": "crioulo",
+			"language_0_1": "crioulo",
+			"language_0_2": "crioulo",
+			"language_0_3": "crioulo",
+			"language_1_0": "crioulo",
+			"language_1_1": "crioulo e port",
+			"language_1_2": "crioulo",
+			"language_1_3": "crioulo e port",
+			"language_2_0": "port",
+			"language_2_1": "port",
+			"language_2_2": "port",
+			"language_2_3": "port",
+			"language_3_0": "port",
+			"language_3_1": "port",
+			"language_3_2": "port",
+			"language_3_3": "port"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 17,
+		"time_elapsed": 2278829,
+		"internal_node_id": "0.0-17.0"
+	},
+	{
+		"rt": 310160,
+		"response": {
+			"language_2": "esp",
+			"think_2": "1",
+			"selftalk_2": "1",
+			"emotions_2": "1",
+			"dream_2": "1",
+			"math_2": "1",
+			"remember_2": "1",
+			"pray_2": "1",
+			"language_1": "crioulo h",
+			"think_1": "6",
+			"selftalk_1": "7",
+			"emotions_1": "7",
+			"dream_1": "2",
+			"math_1": "3",
+			"remember_1": "2",
+			"pray_1": "6",
+			"language_3": "fran",
+			"think_3": "2",
+			"selftalk_3": "2",
+			"emotions_3": "2",
+			"dream_3": "1",
+			"math_3": "1",
+			"remember_3": "1",
+			"pray_3": "1"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 18,
+		"time_elapsed": 2589114,
+		"internal_node_id": "0.0-18.0"
+	},
+	{
+		"rt": 21293,
+		"response": {
+			"dificuldade_visao_ou_audicao": "Sim"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 19,
+		"time_elapsed": 2610518,
+		"internal_node_id": "0.0-19.0"
+	},
+	{
+		"rt": 41763,
+		"response": {
+			"detalhes_dificuldades_audicao_ou_visao": "tenho miopia e hipermetropia e uso óculos"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 20,
+		"time_elapsed": 2652424,
+		"internal_node_id": "0.0-20.0"
+	},
+	{
+		"rt": 135244,
+		"response": {
+			"additional_info": ""
+		},
+		"trial_type": "survey-text",
+		"trial_index": 21,
+		"time_elapsed": 2787779,
+		"internal_node_id": "0.0-21.0"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 16458
+			}
+		],
+		"rt": 16462,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 16654,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 312751,
+		"response": {
+			"tcle": "Concordo voluntariamente em participar da pesquisa conforme texto acima."
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 1,
+		"time_elapsed": 329621,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 48595,
+		"response": {
+			"email": "richardsonyonel94@gmail.com"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 2,
+		"time_elapsed": 379667,
+		"internal_node_id": "0.0-2.0"
+	}
+]
